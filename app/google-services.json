@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392627817964",
+    "project_id": "connect-spidey-icy",
+    "storage_bucket": "connect-spidey-icy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392627817964:android:5f2804793fa7207a74c4c9",
+        "android_client_info": {
+          "package_name": "icy.spidey.messenger.connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392627817964-aar1itgmseklg1gqn31fm0go4l79qbto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpeSFLhsKDUt2IWD-H5FnblxBIg2tnAwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392627817964-aar1itgmseklg1gqn31fm0go4l79qbto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

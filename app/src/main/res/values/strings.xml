@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Connect</string>
+
+    <string-array name="countries">
+        <item>--Please Select Your Country--</item>
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Pakistan</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
